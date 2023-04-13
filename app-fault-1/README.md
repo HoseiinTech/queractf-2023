@@ -3,9 +3,9 @@ It's very simple, just send an input to break the loop and display the flag! Whe
 
 ![bug finded!](find-bug.png)
 
-It is enough to do something so that **q and q2** or **r and r2** are not equal to receive the flag. Let's make an unexpected entry:
+At first glance, we can see that this challenge can have **Integer Overflow**! So let's test. You can use this [article](https://www.geeksforgeeks.org/check-for-integer-overflow/) to read more.
 
-![flag finded](find-flag.png)
+![integer overflow](integer-overflow.png)
 
 ***Solved (:*** It was very simple, wasn't it?
 
