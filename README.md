@@ -6,5 +6,5 @@ Of course, the level of questions was a little difficult for the first experienc
 ![team-score](team-score.png)
 In this repo, we decided to present our own team's write-ups about these issues :D
 
-
-
+# Solutions
+## [Challenge 1: Bad Token](https://github.com/HoseiinTech/queractf-2023/tree/main/BadToken)
