@@ -10,3 +10,5 @@ In this repo, we decided to present our own team's write-ups about these issues 
 ## [Challenge 1: Bad Token](https://github.com/HoseiinTech/queractf-2023/tree/main/BadToken)
 
 ## [Challenge 2: Customer Care](https://github.com/HoseiinTech/queractf-2023/tree/main/CustomerCare)
+
+## [Challenge 3: app-fault-1](https://github.com/HoseiinTech/queractf-2023/tree/main/app-fault-1)
