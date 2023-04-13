@@ -1,4 +1,5 @@
 Points: 150
+Category: Web
 Hint: 
     Can you enter the restricted area?
     http://185.94.96.76:39012

@@ -1,0 +1,7 @@
+Points: 150
+Category: Web
+Hint: 
+    Take care of the customers and find the flag.
+    http://185.94.96.76:47561
+
+    check the /root.

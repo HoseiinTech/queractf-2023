@@ -15,3 +15,5 @@ But this is not enough, we must try to enter with a user with more access, for e
 ![solved](find-flag.png)
 
 It was solved that easily ! ***enjoy :)***
+
+flag is: flag{have_a_nice_day!}
