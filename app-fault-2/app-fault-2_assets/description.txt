@@ -1,6 +1,0 @@
-Points: 50
-Category: Pwn
-Hint: 
-    Find a bug in the program to get the flag.
-    $ nc 185.94.96.76 41123
-    Download the source code.
