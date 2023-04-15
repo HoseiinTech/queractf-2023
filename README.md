@@ -18,3 +18,5 @@ In this repo, we decided to present our own team's write-ups about these issues 
 ## [Challenge 5: DH Talk](https://github.com/HoseiinTech/queractf-2023/tree/main/DH-Talk)
 
 ## [Challenge 6: CrackMe](https://github.com/HoseiinTech/queractf-2023/tree/main/CrackMe)
+
+## [Challenge 7: PeakyBlinders](https://github.com/HoseiinTech/queractf-2023/tree/main/PeakyBlinders)
